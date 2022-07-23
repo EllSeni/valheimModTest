@@ -25,5 +25,6 @@ namespace ExampleShowTamed
                 Debug.Log($"Modified jump force: {___m_jumpForce}");
             }
         }
+
     }
 }
